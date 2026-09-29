@@ -4,6 +4,8 @@ Add business days, find month and quarter bounds, and convert a `DateTimeOffset`
 
 **Version:** 0.1.1. Not published to nuget.org yet. Do not `dotnet nuget push` from a local clone.
 
+Docs: https://nuvyntralabs.github.io/packages/nuvyntralabs-net-timekit/
+
 ```bash
 dotnet add package NuvyntraLabs.NET.TimeKit
 ```
